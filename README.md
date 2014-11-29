@@ -13,13 +13,17 @@ This is the compromise! Now we can put our highlights on Evernote nicely!
 
 ## How to use
 
-1. Get 'My Clippings.txt' from your Kindle
-1. `python main.py` 
-1. input 'My Clippings.txt' as a input file name and designate output file
-   name
-1. you'll get nicely arranged markdown file as output!
+1. Copy 'My Clippings.txt' from your Kindle device to a directory where
+   main.py is
+1. execute commands below
+```
+python main.py
+input file name > My Clippings.txt
+output file name > output.txt
+```
+1. You'll get nicely arranged markdown file as output!
 1. Open output with some markdown editor(wri.pe is nice cuz it can sync note
-   with Evernote)
+   with Evernote).
 
 
 ## License
